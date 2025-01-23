@@ -65,4 +65,4 @@ To create a comprehensive sales dashboard for Blinkit using Power BI, with the g
 ✅Investigate customer feedback to improve the average customer rating of 3.9 and enhance overall customer satisfaction.
 
 
-https://github.com/Sekhar1272003/Blinkit_sales_analysis/blob/main/Screenshot%20(114).png
+![Image](https://github.com/user-attachments/assets/ce487d70-9c59-45a1-9ceb-2fc92900aea1)
