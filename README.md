@@ -63,3 +63,5 @@ To create a comprehensive sales dashboard for Blinkit using Power BI, with the g
 ✅Develop targeted marketing campaigns and tailor product offerings to Tier 3 cities to further capitalize on their high sales performance.
 
 ✅Investigate customer feedback to improve the average customer rating of 3.9 and enhance overall customer satisfaction.
+
+
